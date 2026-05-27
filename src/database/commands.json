@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ping",
+    "description": "Check bot response time",
+    "usage": "ping"
+  },
+  {
+    "name": "help",
+    "description": "Show all available commands",
+    "usage": "help [command]"
+  }
+]
